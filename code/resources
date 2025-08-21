@@ -1,0 +1,7 @@
+resources:
+  minio:
+    config:
+      endpoint: "http://89.169.15.20:1337"
+      access_key: "OPG"
+      secret_key: "NtdA5962"
+      bucket: "mlops"
